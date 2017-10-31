@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yahoo7Test</string>
+    <string name="data_exausted">No more data to display!!</string>
+</resources>
